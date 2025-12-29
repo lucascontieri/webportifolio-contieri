@@ -1,11 +1,5 @@
 # 🚀 Portfólio Pessoal | Lucas Contieri
 
-Bem-vindo ao repositório do meu site de portfólio pessoal. Este projeto tem como objetivo apresentar minhas habilidades, projetos e trajetória profissional como Desenvolvedor Full Stack.
-
-## 📋 Sobre o Projeto
-
-Este é um site estático, responsivo e moderno, desenvolvido para servir como meu "cartão de visitas" digital. Nele, destaco minha atuação atual na **Rede D'Or** (trabalhando com RPA e Power BI), minha formação na **FATEC Guarulhos** e meus estudos em **Dart/Flutter**.
-
 ### 🛠 Tecnologias Utilizadas
 
 O projeto foi construído utilizando as seguintes tecnologias:

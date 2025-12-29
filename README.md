@@ -1,0 +1,37 @@
+# 🚀 Portfólio Pessoal | Lucas Contieri
+
+Bem-vindo ao repositório do meu site de portfólio pessoal. Este projeto tem como objetivo apresentar minhas habilidades, projetos e trajetória profissional como Desenvolvedor Full Stack.
+
+## 📋 Sobre o Projeto
+
+Este é um site estático, responsivo e moderno, desenvolvido para servir como meu "cartão de visitas" digital. Nele, destaco minha atuação atual na **Rede D'Or** (trabalhando com RPA e Power BI), minha formação na **FATEC Guarulhos** e meus estudos em **Dart/Flutter**.
+
+### 🛠 Tecnologias Utilizadas
+
+O projeto foi construído utilizando as seguintes tecnologias:
+
+* **HTML5:** Estruturação semântica do conteúdo.
+* **CSS3:** Estilização, layout responsivo e animações.
+* **JavaScript:** Interatividade e lógica de manipulação do DOM (menu, animações de texto, etc).
+* **Boxicons:** Biblioteca de ícones para redes sociais e interface.
+
+## ✨ Funcionalidades
+
+* **Hero Section:** Apresentação inicial com animação de digitação (*typing effect*).
+* **Links Sociais:** Conexão direta para LinkedIn, GitHub e Instagram.
+* **Design Responsivo:** Adaptável para dispositivos móveis e desktops.
+* **Navegação:** Menu intuitivo para as seções de Serviços e Contato.
+
+## 📂 Estrutura de Pastas
+
+```bash
+portfolio-pessoal-main/
+│
+├── assets/
+│   ├── img/          # Imagens do perfil e projetos
+│   ├── js/           # Scripts de interatividade (script.js)
+│   └── style/        # Folhas de estilo (style.css)
+│
+├── index.html        # Estrutura principal
+└── README.md         # Documentação do projeto
+Apresento aos senhores meu portifólio pessoal
